@@ -1,0 +1,8 @@
+gmock.lib
+gmockd.lib
+gmock_main.lib
+gmock_maind.lib
+gtest.lib
+gtestd.lib
+gtest_main.lib
+gtest_maind.lib

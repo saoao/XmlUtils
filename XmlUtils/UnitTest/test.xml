@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootNode lastmodifiedtime="2020/10/19 11:21:50.351" fileversion="1.0" createtime="2020/10/19 11:21:50.351">
+    <childNode age="30" name="xiaoming"/>
+    <childNode2 age="22" name="xiaodong"/>
+</rootNode>
